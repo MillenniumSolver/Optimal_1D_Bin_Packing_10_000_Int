@@ -5,4 +5,6 @@ Multiset: https://www.random.org/integer-sets/?sets=1&num=10000&min=1&max=99999&
 
 LICENCE CC BY-NC-ND 4.0. https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1
 
+Author: https://github.com/MillenniumSolver
+
 © 2020 All Rights Reserved
